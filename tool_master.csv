@@ -1,0 +1,10 @@
+tool_id,category_id,product_name,host_name,cluster_name,environment,product_version,license_type,created_time,last_updated_time,updated_by
+1,1,Oracle,pun01cloud04,Oracle_Newton,dev,11g,On-prem,"2022-09-02 10:20:39","2022-09-02 10:20:39",iowb_user
+2,5,Hadoop,pun01cloud05,Hadoop_Newton,prod,3.0.0,Cloud,"2022-09-02 10:20:40","2022-09-02 10:20:40",iowb_user
+3,6,Airflow,pun01cloud06,Airflow_Newton,dev,1.10.10,On-prem,"2022-09-02 10:20:41","2022-09-02 10:20:41",iowb_user
+4,4,Tableau,pun01cloud07,TABLEAU_SERVER,dev,2019.1,On-prem,"2022-09-02 10:20:42","2022-09-02 10:20:42",iowb_user
+5,1,MySQL,pun01cloud08,MySQL_Kalam,dev,8.0.0,On-prem,"2022-09-02 10:20:43","2022-09-02 10:20:43",iowb_user
+8,6,Informatica,pun01cloud09,Informatica_Newton,dev,10.1.0,On-prem,"2022-09-02 12:09:30","2022-09-02 12:09:30",owb_user
+9,3,Snowflake,pun01cloud02,IOWSOLUTIONWH,prod,5.40.1,Cloud,"2022-09-02 12:11:51","2022-09-02 12:11:51",owb_user
+10,3,amazon_redshift,pun01cloud11,Redshift_AWS_OWB,dev,6.3.2,Cloud,"2022-09-02 12:11:51","2022-09-02 12:11:51",owb_user
+11,8,NTFS,pun01cloud12,Einstein,prod,3.1,On-prem,"2022-09-02 12:11:51","2022-09-02 12:11:51",owb_user
